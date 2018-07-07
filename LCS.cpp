@@ -91,9 +91,7 @@ void main() {
 	Matrix.resize(fstring.size+1);
 	for (int i = 0; i < fstring.size+1; i++)
 		Matrix[i].resize(sstring.size+1);
-	//The Proccess
-	//for (int i = 0; i < fstring.size; i++) { Matrix[i][0].number = 1; };
-	//for (int j = 0; j < sstring.size; j++) { Matrix[0][j].number = 2; };
+	
 	
 
 
